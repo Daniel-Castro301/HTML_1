@@ -1,0 +1,75 @@
+a:link {
+    color: rgb(235, 20, 20);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(133, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(55, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(222, 10, 70);
+    background-color: transparent;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(213, 239, 243);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: medium;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large ;
+    text-align: center;
+}
+img #logo_link{
+    height: 60px;width: 80px;
+}
+h2 #lg1{
+    background-color:tomato ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 #lg2{
+    background-color:orange ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2 #lg3{
+    background-color:yellow ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2 #lg4{
+    background-color:mediumseagreen ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2 #lg5{
+    background-color:dodgerblue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2 #lg6{
+    background-color:slateblue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+address{
+    text-align: center;
+}
+li{
+    color: blue;
+}
