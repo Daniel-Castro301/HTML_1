@@ -35,34 +35,41 @@ h4{
     font-size: xx-large ;
     text-align: center;
 }
-img #logo_link{
+#C2{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large ;
+    text-align: center;
+}
+#logo_link{
     height: 60px;width: 80px;
 }
-h2 #lg1{
+#lg1{
     background-color:tomato ;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
-h2 #lg2{
+#lg2{
     background-color:orange ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-h2 #lg3{
+#lg3{
     background-color:yellow ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-h2 #lg4{
+#lg4{
     background-color:mediumseagreen ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-h2 #lg5{
+#lg5{
     background-color:dodgerblue ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-h2 #lg6{
+#lg6{
     background-color:slateblue ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -72,4 +79,23 @@ address{
 }
 li{
     color: blue;
+}
+img{
+    width: 400px;height: 200;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+.note{
+    font-size:120%;
+    color: red;
+  }
+div {
+    background-color: orange;
+  }
+table{
+    width: 100%;
+  }
+span{
+    border: 1px solid black;
 }
